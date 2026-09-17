@@ -3,6 +3,7 @@ import pandas as pd
 import clinical_pipeline
 from pathlib import Path
 from bs4 import BeautifulSoup
+import spacy
 from rdflib import Graph, Namespace, RDF
 
 
