@@ -19,6 +19,7 @@ INPUT_CSV = BASE_DIR / "diabetic_data.csv"
 PATIENTS_DIR = BASE_DIR / "patients"
 OUTPUT_DIR = BASE_DIR / "output"
 
+
 PATIENTS_DIR.mkdir(exist_ok=True)
 OUTPUT_DIR.mkdir(exist_ok=True)
 
