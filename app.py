@@ -188,14 +188,14 @@ ENCOUNTER = Namespace(
 
 @st.cache_data
 def load_patient_data():
-
     if not CSV_FILE.exists():
         return pd.DataFrame()
 
     try:
-        return pd.read_csv(CSV_FILE)
-
-    except Exception:
+        df = pd.read_csv(CSV_FILE)
+        return df
+    except Exception as e:
+        st.error(f"Error reading patient CSV: {e}")
         return pd.DataFrame()
 
 
