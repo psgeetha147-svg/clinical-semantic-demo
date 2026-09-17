@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import clinical_pipeline
 from pathlib import Path
 from bs4 import BeautifulSoup
 from rdflib import Graph, Namespace, RDF
