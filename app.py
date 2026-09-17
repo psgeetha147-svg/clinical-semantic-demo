@@ -148,10 +148,10 @@ st.markdown(
 
 BASE_DIR = Path(__file__).parent
 
-CSV_FILE = BASE_DIR / "output" / "100_patients.csv"
-ENTITY_FILE = BASE_DIR / "output" / "entity_extraction_results.csv"
-RDF_FILE = BASE_DIR / "output" / "100_patients.rdf"
-PATIENT_FOLDER = BASE_DIR / "patients"
+CSV_FILE = BASE_DIR / "100_patients.csv"
+ENTITY_FILE = BASE_DIR / "entity_extraction_results.csv"
+RDF_FILE = BASE_DIR / "100_patients.rdf"
+PATIENT_FOLDER = BASE_DIR
 
 
 # ============================================================
