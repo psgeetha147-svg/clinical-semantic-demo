@@ -153,16 +153,6 @@ CSV_FILE = BASE_DIR / "100_patients.csv"
 ENTITY_FILE = BASE_DIR / "entity_extraction_results.csv"
 RDF_FILE = BASE_DIR / "100_patients.rdf"
 
-# Display available files for debugging
-if not CSV_FILE.exists():
-    st.error(f"Patient CSV not found: {CSV_FILE}")
-
-if not ENTITY_FILE.exists():
-    st.error(f"Entity CSV not found: {ENTITY_FILE}")
-
-if not RDF_FILE.exists():
-    st.error(f"RDF file not found: {RDF_FILE}")
-
 
 
 # ============================================================
