@@ -13,12 +13,12 @@ from rdflib.namespace import RDF
 # CONFIGURATION
 # ============================================================
 
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).resolve().parent
 
-INPUT_CSV = BASE_DIR / "diabetic_data.csv"
-PATIENTS_DIR = BASE_DIR / "patients"
-OUTPUT_DIR = BASE_DIR / "output"
-
+# Your files are currently in the GitHub repository root
+CSV_FILE = BASE_DIR / "100_patients.csv"
+ENTITY_FILE = BASE_DIR / "entity_extraction_results.csv"
+RDF_FILE = BASE_DIR / "100_patients.rdf"
 
 PATIENTS_DIR.mkdir(exist_ok=True)
 OUTPUT_DIR.mkdir(exist_ok=True)
