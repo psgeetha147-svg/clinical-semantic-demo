@@ -1,0 +1,500 @@
+======================================================================
+PATIENT: P001
+======================================================================
+Clinical Record - P001 Clinical Record Patient ID: P001 Age: [0-10) Gender: Female Race: Caucasian Diagnosis: 250.83 Time in Hospital: 1 days Number of Diagnoses: 1 Medications: No medication information Diabetes Medication: No Readmission: NO
+
+======================================================================
+PATIENT: P002
+======================================================================
+Clinical Record - P002 Clinical Record Patient ID: P002 Age: [10-20) Gender: Female Race: Caucasian Diagnosis: 276 Time in Hospital: 3 days Number of Diagnoses: 9 Medications: insulin: Up Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P003
+======================================================================
+Clinical Record - P003 Clinical Record Patient ID: P003 Age: [20-30) Gender: Female Race: AfricanAmerican Diagnosis: 648 Time in Hospital: 2 days Number of Diagnoses: 6 Medications: glipizide: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P004
+======================================================================
+Clinical Record - P004 Clinical Record Patient ID: P004 Age: [30-40) Gender: Male Race: Caucasian Diagnosis: 8 Time in Hospital: 2 days Number of Diagnoses: 7 Medications: insulin: Up Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P005
+======================================================================
+Clinical Record - P005 Clinical Record Patient ID: P005 Age: [40-50) Gender: Male Race: Caucasian Diagnosis: 197 Time in Hospital: 1 days Number of Diagnoses: 5 Medications: glipizide: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P006
+======================================================================
+Clinical Record - P006 Clinical Record Patient ID: P006 Age: [50-60) Gender: Male Race: Caucasian Diagnosis: 414 Time in Hospital: 3 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P007
+======================================================================
+Clinical Record - P007 Clinical Record Patient ID: P007 Age: [60-70) Gender: Male Race: Caucasian Diagnosis: 414 Time in Hospital: 4 days Number of Diagnoses: 7 Medications: metformin: Steady, glimepiride: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P008
+======================================================================
+Clinical Record - P008 Clinical Record Patient ID: P008 Age: [70-80) Gender: Male Race: Caucasian Diagnosis: 428 Time in Hospital: 5 days Number of Diagnoses: 8 Medications: glyburide: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P009
+======================================================================
+Clinical Record - P009 Clinical Record Patient ID: P009 Age: [80-90) Gender: Female Race: Caucasian Diagnosis: 398 Time in Hospital: 13 days Number of Diagnoses: 8 Medications: glipizide: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P010
+======================================================================
+Clinical Record - P010 Clinical Record Patient ID: P010 Age: [90-100) Gender: Female Race: Caucasian Diagnosis: 434 Time in Hospital: 12 days Number of Diagnoses: 8 Medications: rosiglitazone: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P011
+======================================================================
+Clinical Record - P011 Clinical Record Patient ID: P011 Age: [40-50) Gender: Female Race: AfricanAmerican Diagnosis: 250.7 Time in Hospital: 9 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P012
+======================================================================
+Clinical Record - P012 Clinical Record Patient ID: P012 Age: [60-70) Gender: Male Race: AfricanAmerican Diagnosis: 157 Time in Hospital: 7 days Number of Diagnoses: 7 Medications: glyburide: Up, insulin: Steady Diabetes Medication: Yes Readmission: <30
+
+======================================================================
+PATIENT: P013
+======================================================================
+Clinical Record - P013 Clinical Record Patient ID: P013 Age: [40-50) Gender: Female Race: Caucasian Diagnosis: 428 Time in Hospital: 7 days Number of Diagnoses: 8 Medications: metformin: Steady, repaglinide: Up, insulin: Down Diabetes Medication: Yes Readmission: <30
+
+======================================================================
+PATIENT: P014
+======================================================================
+Clinical Record - P014 Clinical Record Patient ID: P014 Age: [80-90) Gender: Male Race: Caucasian Diagnosis: 428 Time in Hospital: 10 days Number of Diagnoses: 8 Medications: insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P015
+======================================================================
+Clinical Record - P015 Clinical Record Patient ID: P015 Age: [60-70) Gender: Female Race: AfricanAmerican Diagnosis: 518 Time in Hospital: 1 days Number of Diagnoses: 8 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P016
+======================================================================
+Clinical Record - P016 Clinical Record Patient ID: P016 Age: [60-70) Gender: Male Race: AfricanAmerican Diagnosis: 999 Time in Hospital: 12 days Number of Diagnoses: 9 Medications: insulin: Up Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P017
+======================================================================
+Clinical Record - P017 Clinical Record Patient ID: P017 Age: [50-60) Gender: Male Race: AfricanAmerican Diagnosis: 410 Time in Hospital: 4 days Number of Diagnoses: 8 Medications: glipizide: Steady, insulin: Steady Diabetes Medication: Yes Readmission: <30
+
+======================================================================
+PATIENT: P018
+======================================================================
+Clinical Record - P018 Clinical Record Patient ID: P018 Age: [50-60) Gender: Female Race: Caucasian Diagnosis: 682 Time in Hospital: 3 days Number of Diagnoses: 3 Medications: glyburide: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P019
+======================================================================
+Clinical Record - P019 Clinical Record Patient ID: P019 Age: [70-80) Gender: Male Race: AfricanAmerican Diagnosis: 402 Time in Hospital: 5 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P020
+======================================================================
+Clinical Record - P020 Clinical Record Patient ID: P020 Age: [70-80) Gender: Male Race: ? Diagnosis: 737 Time in Hospital: 6 days Number of Diagnoses: 8 Medications: glyburide: Down, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P021
+======================================================================
+Clinical Record - P021 Clinical Record Patient ID: P021 Age: [50-60) Gender: Female Race: ? Diagnosis: 410 Time in Hospital: 2 days Number of Diagnoses: 7 Medications: insulin: Down Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P022
+======================================================================
+Clinical Record - P022 Clinical Record Patient ID: P022 Age: [60-70) Gender: Male Race: ? Diagnosis: 572 Time in Hospital: 2 days Number of Diagnoses: 6 Medications: metformin: Steady, glimepiride: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P023
+======================================================================
+Clinical Record - P023 Clinical Record Patient ID: P023 Age: [70-80) Gender: Female Race: AfricanAmerican Diagnosis: 410 Time in Hospital: 2 days Number of Diagnoses: 8 Medications: No medication information Diabetes Medication: No Readmission: NO
+
+======================================================================
+PATIENT: P024
+======================================================================
+Clinical Record - P024 Clinical Record Patient ID: P024 Age: [80-90) Gender: Female Race: Caucasian Diagnosis: V57 Time in Hospital: 11 days Number of Diagnoses: 8 Medications: No medication information Diabetes Medication: No Readmission: >30
+
+======================================================================
+PATIENT: P025
+======================================================================
+Clinical Record - P025 Clinical Record Patient ID: P025 Age: [70-80) Gender: Female Race: AfricanAmerican Diagnosis: 189 Time in Hospital: 3 days Number of Diagnoses: 6 Medications: glipizide: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P026
+======================================================================
+Clinical Record - P026 Clinical Record Patient ID: P026 Age: [50-60) Gender: Female Race: Other Diagnosis: 786 Time in Hospital: 1 days Number of Diagnoses: 3 Medications: metformin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P027
+======================================================================
+Clinical Record - P027 Clinical Record Patient ID: P027 Age: [80-90) Gender: Male Race: Caucasian Diagnosis: 427 Time in Hospital: 6 days Number of Diagnoses: 7 Medications: metformin: Steady, glyburide: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P028
+======================================================================
+Clinical Record - P028 Clinical Record Patient ID: P028 Age: [50-60) Gender: Female Race: Caucasian Diagnosis: 996 Time in Hospital: 2 days Number of Diagnoses: 3 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P029
+======================================================================
+Clinical Record - P029 Clinical Record Patient ID: P029 Age: [20-30) Gender: Male Race: Caucasian Diagnosis: 277 Time in Hospital: 10 days Number of Diagnoses: 6 Medications: insulin: Down Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P030
+======================================================================
+Clinical Record - P030 Clinical Record Patient ID: P030 Age: [80-90) Gender: Female Race: Caucasian Diagnosis: 428 Time in Hospital: 5 days Number of Diagnoses: 8 Medications: metformin: Steady, glyburide: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P031
+======================================================================
+Clinical Record - P031 Clinical Record Patient ID: P031 Age: [60-70) Gender: Female Race: AfricanAmerican Diagnosis: 584 Time in Hospital: 6 days Number of Diagnoses: 9 Medications: glyburide: Up, acarbose: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P032
+======================================================================
+Clinical Record - P032 Clinical Record Patient ID: P032 Age: [70-80) Gender: Male Race: AfricanAmerican Diagnosis: 462 Time in Hospital: 1 days Number of Diagnoses: 8 Medications: insulin: Down Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P033
+======================================================================
+Clinical Record - P033 Clinical Record Patient ID: P033 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 996 Time in Hospital: 6 days Number of Diagnoses: 8 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P034
+======================================================================
+Clinical Record - P034 Clinical Record Patient ID: P034 Age: [60-70) Gender: Male Race: Caucasian Diagnosis: 473 Time in Hospital: 5 days Number of Diagnoses: 8 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P035
+======================================================================
+Clinical Record - P035 Clinical Record Patient ID: P035 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 428 Time in Hospital: 5 days Number of Diagnoses: 9 Medications: insulin: Down Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P036
+======================================================================
+Clinical Record - P036 Clinical Record Patient ID: P036 Age: [60-70) Gender: Female Race: Caucasian Diagnosis: 411 Time in Hospital: 2 days Number of Diagnoses: 6 Medications: rosiglitazone: Steady, insulin: Down Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P037
+======================================================================
+Clinical Record - P037 Clinical Record Patient ID: P037 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 174 Time in Hospital: 3 days Number of Diagnoses: 5 Medications: insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P038
+======================================================================
+Clinical Record - P038 Clinical Record Patient ID: P038 Age: [60-70) Gender: Female Race: Caucasian Diagnosis: 486 Time in Hospital: 4 days Number of Diagnoses: 3 Medications: metformin: Steady, glipizide: Steady, insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P039
+======================================================================
+Clinical Record - P039 Clinical Record Patient ID: P039 Age: [70-80) Gender: Male Race: Caucasian Diagnosis: 998 Time in Hospital: 7 days Number of Diagnoses: 8 Medications: glipizide: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P040
+======================================================================
+Clinical Record - P040 Clinical Record Patient ID: P040 Age: [50-60) Gender: Male Race: Caucasian Diagnosis: 996 Time in Hospital: 1 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P041
+======================================================================
+Clinical Record - P041 Clinical Record Patient ID: P041 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 414 Time in Hospital: 1 days Number of Diagnoses: 4 Medications: metformin: Steady, insulin: Down Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P042
+======================================================================
+Clinical Record - P042 Clinical Record Patient ID: P042 Age: [40-50) Gender: Male Race: Caucasian Diagnosis: 511 Time in Hospital: 7 days Number of Diagnoses: 5 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P043
+======================================================================
+Clinical Record - P043 Clinical Record Patient ID: P043 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: V57 Time in Hospital: 13 days Number of Diagnoses: 8 Medications: metformin: Steady, glyburide: Steady, insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P044
+======================================================================
+Clinical Record - P044 Clinical Record Patient ID: P044 Age: [50-60) Gender: Male Race: Caucasian Diagnosis: 428 Time in Hospital: 3 days Number of Diagnoses: 6 Medications: metformin: Steady, glipizide: Steady, insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P045
+======================================================================
+Clinical Record - P045 Clinical Record Patient ID: P045 Age: [80-90) Gender: Female Race: Caucasian Diagnosis: 432 Time in Hospital: 7 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P046
+======================================================================
+Clinical Record - P046 Clinical Record Patient ID: P046 Age: [40-50) Gender: Female Race: Caucasian Diagnosis: 626 Time in Hospital: 2 days Number of Diagnoses: 5 Medications: insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P047
+======================================================================
+Clinical Record - P047 Clinical Record Patient ID: P047 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 428 Time in Hospital: 9 days Number of Diagnoses: 7 Medications: glyburide: Steady, insulin: Down Diabetes Medication: Yes Readmission: <30
+
+======================================================================
+PATIENT: P048
+======================================================================
+Clinical Record - P048 Clinical Record Patient ID: P048 Age: [70-80) Gender: Male Race: Caucasian Diagnosis: 295 Time in Hospital: 9 days Number of Diagnoses: 3 Medications: metformin: Up, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P049
+======================================================================
+Clinical Record - P049 Clinical Record Patient ID: P049 Age: [50-60) Gender: Male Race: Caucasian Diagnosis: 414 Time in Hospital: 6 days Number of Diagnoses: 9 Medications: insulin: Up Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P050
+======================================================================
+Clinical Record - P050 Clinical Record Patient ID: P050 Age: [60-70) Gender: Male Race: Caucasian Diagnosis: 428 Time in Hospital: 11 days Number of Diagnoses: 9 Medications: glipizide: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P051
+======================================================================
+Clinical Record - P051 Clinical Record Patient ID: P051 Age: [50-60) Gender: Male Race: AfricanAmerican Diagnosis: 196 Time in Hospital: 4 days Number of Diagnoses: 9 Medications: No medication information Diabetes Medication: No Readmission: <30
+
+======================================================================
+PATIENT: P052
+======================================================================
+Clinical Record - P052 Clinical Record Patient ID: P052 Age: [70-80) Gender: Male Race: Caucasian Diagnosis: 998 Time in Hospital: 5 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P053
+======================================================================
+Clinical Record - P053 Clinical Record Patient ID: P053 Age: [40-50) Gender: Female Race: AfricanAmerican Diagnosis: 250.6 Time in Hospital: 8 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P054
+======================================================================
+Clinical Record - P054 Clinical Record Patient ID: P054 Age: [50-60) Gender: Female Race: AfricanAmerican Diagnosis: 786 Time in Hospital: 1 days Number of Diagnoses: 9 Medications: insulin: Down Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P055
+======================================================================
+Clinical Record - P055 Clinical Record Patient ID: P055 Age: [60-70) Gender: Female Race: ? Diagnosis: 618 Time in Hospital: 4 days Number of Diagnoses: 9 Medications: insulin: Down Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P056
+======================================================================
+Clinical Record - P056 Clinical Record Patient ID: P056 Age: [60-70) Gender: Female Race: Caucasian Diagnosis: 182 Time in Hospital: 6 days Number of Diagnoses: 9 Medications: insulin: Down Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P057
+======================================================================
+Clinical Record - P057 Clinical Record Patient ID: P057 Age: [50-60) Gender: Female Race: AfricanAmerican Diagnosis: 250.7 Time in Hospital: 9 days Number of Diagnoses: 4 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P058
+======================================================================
+Clinical Record - P058 Clinical Record Patient ID: P058 Age: [40-50) Gender: Male Race: Caucasian Diagnosis: 845 Time in Hospital: 1 days Number of Diagnoses: 6 Medications: insulin: Down Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P059
+======================================================================
+Clinical Record - P059 Clinical Record Patient ID: P059 Age: [80-90) Gender: Female Race: AfricanAmerican Diagnosis: 423 Time in Hospital: 7 days Number of Diagnoses: 9 Medications: insulin: Down Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P060
+======================================================================
+Clinical Record - P060 Clinical Record Patient ID: P060 Age: [70-80) Gender: Male Race: Caucasian Diagnosis: 808 Time in Hospital: 7 days Number of Diagnoses: 5 Medications: insulin: Down Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P061
+======================================================================
+Clinical Record - P061 Clinical Record Patient ID: P061 Age: [70-80) Gender: Female Race: AfricanAmerican Diagnosis: 250.4 Time in Hospital: 4 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P062
+======================================================================
+Clinical Record - P062 Clinical Record Patient ID: P062 Age: [50-60) Gender: Male Race: Caucasian Diagnosis: 414 Time in Hospital: 4 days Number of Diagnoses: 8 Medications: insulin: Down Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P063
+======================================================================
+Clinical Record - P063 Clinical Record Patient ID: P063 Age: [40-50) Gender: Female Race: AfricanAmerican Diagnosis: 428 Time in Hospital: 3 days Number of Diagnoses: 9 Medications: insulin: Up Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P064
+======================================================================
+Clinical Record - P064 Clinical Record Patient ID: P064 Age: [80-90) Gender: Male Race: Caucasian Diagnosis: 722 Time in Hospital: 4 days Number of Diagnoses: 9 Medications: glimepiride: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P065
+======================================================================
+Clinical Record - P065 Clinical Record Patient ID: P065 Age: [50-60) Gender: Female Race: AfricanAmerican Diagnosis: 403 Time in Hospital: 4 days Number of Diagnoses: 9 Medications: insulin: Down Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P066
+======================================================================
+Clinical Record - P066 Clinical Record Patient ID: P066 Age: [90-100) Gender: Female Race: ? Diagnosis: 250.7 Time in Hospital: 8 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P067
+======================================================================
+Clinical Record - P067 Clinical Record Patient ID: P067 Age: [10-20) Gender: Male Race: Caucasian Diagnosis: 250.11 Time in Hospital: 1 days Number of Diagnoses: 1 Medications: insulin: Up Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P068
+======================================================================
+Clinical Record - P068 Clinical Record Patient ID: P068 Age: [80-90) Gender: Female Race: Caucasian Diagnosis: 410 Time in Hospital: 2 days Number of Diagnoses: 7 Medications: insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P069
+======================================================================
+Clinical Record - P069 Clinical Record Patient ID: P069 Age: [50-60) Gender: Female Race: Caucasian Diagnosis: 414 Time in Hospital: 2 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: <30
+
+======================================================================
+PATIENT: P070
+======================================================================
+Clinical Record - P070 Clinical Record Patient ID: P070 Age: [50-60) Gender: Female Race: Caucasian Diagnosis: 784 Time in Hospital: 6 days Number of Diagnoses: 8 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P071
+======================================================================
+Clinical Record - P071 Clinical Record Patient ID: P071 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 707 Time in Hospital: 7 days Number of Diagnoses: 7 Medications: No medication information Diabetes Medication: No Readmission: <30
+
+======================================================================
+PATIENT: P072
+======================================================================
+Clinical Record - P072 Clinical Record Patient ID: P072 Age: [50-60) Gender: Male Race: Caucasian Diagnosis: 189 Time in Hospital: 12 days Number of Diagnoses: 9 Medications: insulin: Up Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P073
+======================================================================
+Clinical Record - P073 Clinical Record Patient ID: P073 Age: [60-70) Gender: Male Race: Caucasian Diagnosis: 440 Time in Hospital: 4 days Number of Diagnoses: 7 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P074
+======================================================================
+Clinical Record - P074 Clinical Record Patient ID: P074 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 151 Time in Hospital: 14 days Number of Diagnoses: 8 Medications: metformin: Steady, glipizide: Steady, insulin: Down Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P075
+======================================================================
+Clinical Record - P075 Clinical Record Patient ID: P075 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 414 Time in Hospital: 5 days Number of Diagnoses: 7 Medications: insulin: Up Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P076
+======================================================================
+Clinical Record - P076 Clinical Record Patient ID: P076 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 414 Time in Hospital: 4 days Number of Diagnoses: 4 Medications: glimepiride: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P077
+======================================================================
+Clinical Record - P077 Clinical Record Patient ID: P077 Age: [60-70) Gender: Male Race: AfricanAmerican Diagnosis: 786 Time in Hospital: 1 days Number of Diagnoses: 6 Medications: glyburide: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P078
+======================================================================
+Clinical Record - P078 Clinical Record Patient ID: P078 Age: [60-70) Gender: Female Race: Caucasian Diagnosis: 715 Time in Hospital: 3 days Number of Diagnoses: 6 Medications: insulin: Up Diabetes Medication: Yes Readmission: <30
+
+======================================================================
+PATIENT: P079
+======================================================================
+Clinical Record - P079 Clinical Record Patient ID: P079 Age: [50-60) Gender: Female Race: Caucasian Diagnosis: 997 Time in Hospital: 2 days Number of Diagnoses: 8 Medications: insulin: Up Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P080
+======================================================================
+Clinical Record - P080 Clinical Record Patient ID: P080 Age: [50-60) Gender: Female Race: Caucasian Diagnosis: 414 Time in Hospital: 3 days Number of Diagnoses: 7 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P081
+======================================================================
+Clinical Record - P081 Clinical Record Patient ID: P081 Age: [70-80) Gender: Male Race: Caucasian Diagnosis: 427 Time in Hospital: 3 days Number of Diagnoses: 9 Medications: metformin: Steady, insulin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P082
+======================================================================
+Clinical Record - P082 Clinical Record Patient ID: P082 Age: [50-60) Gender: Male Race: AfricanAmerican Diagnosis: 198 Time in Hospital: 3 days Number of Diagnoses: 9 Medications: No medication information Diabetes Medication: No Readmission: NO
+
+======================================================================
+PATIENT: P083
+======================================================================
+Clinical Record - P083 Clinical Record Patient ID: P083 Age: [50-60) Gender: Female Race: Caucasian Diagnosis: 998 Time in Hospital: 5 days Number of Diagnoses: 7 Medications: insulin: Up Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P084
+======================================================================
+Clinical Record - P084 Clinical Record Patient ID: P084 Age: [60-70) Gender: Male Race: Caucasian Diagnosis: 564 Time in Hospital: 1 days Number of Diagnoses: 7 Medications: glipizide: Steady, insulin: Down Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P085
+======================================================================
+Clinical Record - P085 Clinical Record Patient ID: P085 Age: [60-70) Gender: Male Race: Other Diagnosis: 414 Time in Hospital: 5 days Number of Diagnoses: 9 Medications: glipizide: Steady, insulin: Down Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P086
+======================================================================
+Clinical Record - P086 Clinical Record Patient ID: P086 Age: [40-50) Gender: Male Race: Caucasian Diagnosis: 414 Time in Hospital: 3 days Number of Diagnoses: 7 Medications: metformin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P087
+======================================================================
+Clinical Record - P087 Clinical Record Patient ID: P087 Age: [40-50) Gender: Female Race: Caucasian Diagnosis: 414 Time in Hospital: 4 days Number of Diagnoses: 6 Medications: insulin: Down Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P088
+======================================================================
+Clinical Record - P088 Clinical Record Patient ID: P088 Age: [60-70) Gender: Male Race: ? Diagnosis: 812 Time in Hospital: 3 days Number of Diagnoses: 7 Medications: metformin: Steady Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P089
+======================================================================
+Clinical Record - P089 Clinical Record Patient ID: P089 Age: [60-70) Gender: Male Race: AfricanAmerican Diagnosis: 428 Time in Hospital: 7 days Number of Diagnoses: 8 Medications: insulin: Down Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P090
+======================================================================
+Clinical Record - P090 Clinical Record Patient ID: P090 Age: [40-50) Gender: Male Race: Caucasian Diagnosis: 250.7 Time in Hospital: 4 days Number of Diagnoses: 9 Medications: No medication information Diabetes Medication: No Readmission: >30
+
+======================================================================
+PATIENT: P091
+======================================================================
+Clinical Record - P091 Clinical Record Patient ID: P091 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 410 Time in Hospital: 5 days Number of Diagnoses: 5 Medications: glipizide: Steady, insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P092
+======================================================================
+Clinical Record - P092 Clinical Record Patient ID: P092 Age: [70-80) Gender: Male Race: Caucasian Diagnosis: 398 Time in Hospital: 8 days Number of Diagnoses: 9 Medications: metformin: Steady, insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P093
+======================================================================
+Clinical Record - P093 Clinical Record Patient ID: P093 Age: [40-50) Gender: Male Race: AfricanAmerican Diagnosis: 996 Time in Hospital: 4 days Number of Diagnoses: 5 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P094
+======================================================================
+Clinical Record - P094 Clinical Record Patient ID: P094 Age: [50-60) Gender: Female Race: AfricanAmerican Diagnosis: 997 Time in Hospital: 1 days Number of Diagnoses: 4 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P095
+======================================================================
+Clinical Record - P095 Clinical Record Patient ID: P095 Age: [60-70) Gender: Female Race: AfricanAmerican Diagnosis: 403 Time in Hospital: 6 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P096
+======================================================================
+Clinical Record - P096 Clinical Record Patient ID: P096 Age: [70-80) Gender: Male Race: Caucasian Diagnosis: 996 Time in Hospital: 1 days Number of Diagnoses: 9 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P097
+======================================================================
+Clinical Record - P097 Clinical Record Patient ID: P097 Age: [70-80) Gender: Female Race: Caucasian Diagnosis: 38 Time in Hospital: 5 days Number of Diagnoses: 8 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+
+======================================================================
+PATIENT: P098
+======================================================================
+Clinical Record - P098 Clinical Record Patient ID: P098 Age: [70-80) Gender: Male Race: Caucasian Diagnosis: 414 Time in Hospital: 3 days Number of Diagnoses: 9 Medications: insulin: Down Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P099
+======================================================================
+Clinical Record - P099 Clinical Record Patient ID: P099 Age: [50-60) Gender: Female Race: Other Diagnosis: 590 Time in Hospital: 2 days Number of Diagnoses: 3 Medications: insulin: Up Diabetes Medication: Yes Readmission: NO
+
+======================================================================
+PATIENT: P100
+======================================================================
+Clinical Record - P100 Clinical Record Patient ID: P100 Age: [30-40) Gender: Male Race: ? Diagnosis: 556 Time in Hospital: 6 days Number of Diagnoses: 5 Medications: insulin: Steady Diabetes Medication: Yes Readmission: >30
+

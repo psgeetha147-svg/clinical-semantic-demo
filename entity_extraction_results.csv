@@ -1,0 +1,1001 @@
+Patient ID,Entity,Entity Type,Source Field
+P001,P001,Patient,Patient ID
+P001,[0-10),Age,Age
+P001,Female,Gender,Gender
+P001,Caucasian,Demographic,Race
+P001,250.83,Disease,Diagnosis
+P001,1 days,Hospitalization,Time in Hospital
+P001,1,Clinical Information,Number of Diagnoses
+P001,No medication information,Medication,Medications
+P001,No,Medication Status,Diabetes Medication
+P001,NO,Outcome,Readmission
+P002,P002,Patient,Patient ID
+P002,[10-20),Age,Age
+P002,Female,Gender,Gender
+P002,Caucasian,Demographic,Race
+P002,276,Disease,Diagnosis
+P002,3 days,Hospitalization,Time in Hospital
+P002,9,Clinical Information,Number of Diagnoses
+P002,insulin: Up,Medication,Medications
+P002,Yes,Medication Status,Diabetes Medication
+P002,>30,Outcome,Readmission
+P003,P003,Patient,Patient ID
+P003,[20-30),Age,Age
+P003,Female,Gender,Gender
+P003,AfricanAmerican,Demographic,Race
+P003,648,Disease,Diagnosis
+P003,2 days,Hospitalization,Time in Hospital
+P003,6,Clinical Information,Number of Diagnoses
+P003,glipizide: Steady,Medication,Medications
+P003,Yes,Medication Status,Diabetes Medication
+P003,NO,Outcome,Readmission
+P004,P004,Patient,Patient ID
+P004,[30-40),Age,Age
+P004,Male,Gender,Gender
+P004,Caucasian,Demographic,Race
+P004,8,Disease,Diagnosis
+P004,2 days,Hospitalization,Time in Hospital
+P004,7,Clinical Information,Number of Diagnoses
+P004,insulin: Up,Medication,Medications
+P004,Yes,Medication Status,Diabetes Medication
+P004,NO,Outcome,Readmission
+P005,P005,Patient,Patient ID
+P005,[40-50),Age,Age
+P005,Male,Gender,Gender
+P005,Caucasian,Demographic,Race
+P005,197,Disease,Diagnosis
+P005,1 days,Hospitalization,Time in Hospital
+P005,5,Clinical Information,Number of Diagnoses
+P005,"glipizide: Steady, insulin: Steady",Medication,Medications
+P005,Yes,Medication Status,Diabetes Medication
+P005,NO,Outcome,Readmission
+P006,P006,Patient,Patient ID
+P006,[50-60),Age,Age
+P006,Male,Gender,Gender
+P006,Caucasian,Demographic,Race
+P006,414,Disease,Diagnosis
+P006,3 days,Hospitalization,Time in Hospital
+P006,9,Clinical Information,Number of Diagnoses
+P006,insulin: Steady,Medication,Medications
+P006,Yes,Medication Status,Diabetes Medication
+P006,>30,Outcome,Readmission
+P007,P007,Patient,Patient ID
+P007,[60-70),Age,Age
+P007,Male,Gender,Gender
+P007,Caucasian,Demographic,Race
+P007,414,Disease,Diagnosis
+P007,4 days,Hospitalization,Time in Hospital
+P007,7,Clinical Information,Number of Diagnoses
+P007,"metformin: Steady, glimepiride: Steady, insulin: Steady",Medication,Medications
+P007,Yes,Medication Status,Diabetes Medication
+P007,NO,Outcome,Readmission
+P008,P008,Patient,Patient ID
+P008,[70-80),Age,Age
+P008,Male,Gender,Gender
+P008,Caucasian,Demographic,Race
+P008,428,Disease,Diagnosis
+P008,5 days,Hospitalization,Time in Hospital
+P008,8,Clinical Information,Number of Diagnoses
+P008,glyburide: Steady,Medication,Medications
+P008,Yes,Medication Status,Diabetes Medication
+P008,>30,Outcome,Readmission
+P009,P009,Patient,Patient ID
+P009,[80-90),Age,Age
+P009,Female,Gender,Gender
+P009,Caucasian,Demographic,Race
+P009,398,Disease,Diagnosis
+P009,13 days,Hospitalization,Time in Hospital
+P009,8,Clinical Information,Number of Diagnoses
+P009,"glipizide: Steady, insulin: Steady",Medication,Medications
+P009,Yes,Medication Status,Diabetes Medication
+P009,NO,Outcome,Readmission
+P010,P010,Patient,Patient ID
+P010,[90-100),Age,Age
+P010,Female,Gender,Gender
+P010,Caucasian,Demographic,Race
+P010,434,Disease,Diagnosis
+P010,12 days,Hospitalization,Time in Hospital
+P010,8,Clinical Information,Number of Diagnoses
+P010,"rosiglitazone: Steady, insulin: Steady",Medication,Medications
+P010,Yes,Medication Status,Diabetes Medication
+P010,NO,Outcome,Readmission
+P011,P011,Patient,Patient ID
+P011,[40-50),Age,Age
+P011,Female,Gender,Gender
+P011,AfricanAmerican,Demographic,Race
+P011,250.7,Disease,Diagnosis
+P011,9 days,Hospitalization,Time in Hospital
+P011,9,Clinical Information,Number of Diagnoses
+P011,insulin: Steady,Medication,Medications
+P011,Yes,Medication Status,Diabetes Medication
+P011,>30,Outcome,Readmission
+P012,P012,Patient,Patient ID
+P012,[60-70),Age,Age
+P012,Male,Gender,Gender
+P012,AfricanAmerican,Demographic,Race
+P012,157,Disease,Diagnosis
+P012,7 days,Hospitalization,Time in Hospital
+P012,7,Clinical Information,Number of Diagnoses
+P012,"glyburide: Up, insulin: Steady",Medication,Medications
+P012,Yes,Medication Status,Diabetes Medication
+P012,<30,Outcome,Readmission
+P013,P013,Patient,Patient ID
+P013,[40-50),Age,Age
+P013,Female,Gender,Gender
+P013,Caucasian,Demographic,Race
+P013,428,Disease,Diagnosis
+P013,7 days,Hospitalization,Time in Hospital
+P013,8,Clinical Information,Number of Diagnoses
+P013,"metformin: Steady, repaglinide: Up, insulin: Down",Medication,Medications
+P013,Yes,Medication Status,Diabetes Medication
+P013,<30,Outcome,Readmission
+P014,P014,Patient,Patient ID
+P014,[80-90),Age,Age
+P014,Male,Gender,Gender
+P014,Caucasian,Demographic,Race
+P014,428,Disease,Diagnosis
+P014,10 days,Hospitalization,Time in Hospital
+P014,8,Clinical Information,Number of Diagnoses
+P014,insulin: Steady,Medication,Medications
+P014,Yes,Medication Status,Diabetes Medication
+P014,NO,Outcome,Readmission
+P015,P015,Patient,Patient ID
+P015,[60-70),Age,Age
+P015,Female,Gender,Gender
+P015,AfricanAmerican,Demographic,Race
+P015,518,Disease,Diagnosis
+P015,1 days,Hospitalization,Time in Hospital
+P015,8,Clinical Information,Number of Diagnoses
+P015,insulin: Steady,Medication,Medications
+P015,Yes,Medication Status,Diabetes Medication
+P015,>30,Outcome,Readmission
+P016,P016,Patient,Patient ID
+P016,[60-70),Age,Age
+P016,Male,Gender,Gender
+P016,AfricanAmerican,Demographic,Race
+P016,999,Disease,Diagnosis
+P016,12 days,Hospitalization,Time in Hospital
+P016,9,Clinical Information,Number of Diagnoses
+P016,insulin: Up,Medication,Medications
+P016,Yes,Medication Status,Diabetes Medication
+P016,NO,Outcome,Readmission
+P017,P017,Patient,Patient ID
+P017,[50-60),Age,Age
+P017,Male,Gender,Gender
+P017,AfricanAmerican,Demographic,Race
+P017,410,Disease,Diagnosis
+P017,4 days,Hospitalization,Time in Hospital
+P017,8,Clinical Information,Number of Diagnoses
+P017,"glipizide: Steady, insulin: Steady",Medication,Medications
+P017,Yes,Medication Status,Diabetes Medication
+P017,<30,Outcome,Readmission
+P018,P018,Patient,Patient ID
+P018,[50-60),Age,Age
+P018,Female,Gender,Gender
+P018,Caucasian,Demographic,Race
+P018,682,Disease,Diagnosis
+P018,3 days,Hospitalization,Time in Hospital
+P018,3,Clinical Information,Number of Diagnoses
+P018,glyburide: Steady,Medication,Medications
+P018,Yes,Medication Status,Diabetes Medication
+P018,NO,Outcome,Readmission
+P019,P019,Patient,Patient ID
+P019,[70-80),Age,Age
+P019,Male,Gender,Gender
+P019,AfricanAmerican,Demographic,Race
+P019,402,Disease,Diagnosis
+P019,5 days,Hospitalization,Time in Hospital
+P019,9,Clinical Information,Number of Diagnoses
+P019,insulin: Steady,Medication,Medications
+P019,Yes,Medication Status,Diabetes Medication
+P019,>30,Outcome,Readmission
+P020,P020,Patient,Patient ID
+P020,[70-80),Age,Age
+P020,Male,Gender,Gender
+P020,?,Demographic,Race
+P020,737,Disease,Diagnosis
+P020,6 days,Hospitalization,Time in Hospital
+P020,8,Clinical Information,Number of Diagnoses
+P020,"glyburide: Down, insulin: Steady",Medication,Medications
+P020,Yes,Medication Status,Diabetes Medication
+P020,NO,Outcome,Readmission
+P021,P021,Patient,Patient ID
+P021,[50-60),Age,Age
+P021,Female,Gender,Gender
+P021,?,Demographic,Race
+P021,410,Disease,Diagnosis
+P021,2 days,Hospitalization,Time in Hospital
+P021,7,Clinical Information,Number of Diagnoses
+P021,insulin: Down,Medication,Medications
+P021,Yes,Medication Status,Diabetes Medication
+P021,NO,Outcome,Readmission
+P022,P022,Patient,Patient ID
+P022,[60-70),Age,Age
+P022,Male,Gender,Gender
+P022,?,Demographic,Race
+P022,572,Disease,Diagnosis
+P022,2 days,Hospitalization,Time in Hospital
+P022,6,Clinical Information,Number of Diagnoses
+P022,"metformin: Steady, glimepiride: Steady, insulin: Steady",Medication,Medications
+P022,Yes,Medication Status,Diabetes Medication
+P022,NO,Outcome,Readmission
+P023,P023,Patient,Patient ID
+P023,[70-80),Age,Age
+P023,Female,Gender,Gender
+P023,AfricanAmerican,Demographic,Race
+P023,410,Disease,Diagnosis
+P023,2 days,Hospitalization,Time in Hospital
+P023,8,Clinical Information,Number of Diagnoses
+P023,No medication information,Medication,Medications
+P023,No,Medication Status,Diabetes Medication
+P023,NO,Outcome,Readmission
+P024,P024,Patient,Patient ID
+P024,[80-90),Age,Age
+P024,Female,Gender,Gender
+P024,Caucasian,Demographic,Race
+P024,V57,Disease,Diagnosis
+P024,11 days,Hospitalization,Time in Hospital
+P024,8,Clinical Information,Number of Diagnoses
+P024,No medication information,Medication,Medications
+P024,No,Medication Status,Diabetes Medication
+P024,>30,Outcome,Readmission
+P025,P025,Patient,Patient ID
+P025,[70-80),Age,Age
+P025,Female,Gender,Gender
+P025,AfricanAmerican,Demographic,Race
+P025,189,Disease,Diagnosis
+P025,3 days,Hospitalization,Time in Hospital
+P025,6,Clinical Information,Number of Diagnoses
+P025,"glipizide: Steady, insulin: Steady",Medication,Medications
+P025,Yes,Medication Status,Diabetes Medication
+P025,NO,Outcome,Readmission
+P026,P026,Patient,Patient ID
+P026,[50-60),Age,Age
+P026,Female,Gender,Gender
+P026,Other,Demographic,Race
+P026,786,Disease,Diagnosis
+P026,1 days,Hospitalization,Time in Hospital
+P026,3,Clinical Information,Number of Diagnoses
+P026,metformin: Steady,Medication,Medications
+P026,Yes,Medication Status,Diabetes Medication
+P026,NO,Outcome,Readmission
+P027,P027,Patient,Patient ID
+P027,[80-90),Age,Age
+P027,Male,Gender,Gender
+P027,Caucasian,Demographic,Race
+P027,427,Disease,Diagnosis
+P027,6 days,Hospitalization,Time in Hospital
+P027,7,Clinical Information,Number of Diagnoses
+P027,"metformin: Steady, glyburide: Steady",Medication,Medications
+P027,Yes,Medication Status,Diabetes Medication
+P027,NO,Outcome,Readmission
+P028,P028,Patient,Patient ID
+P028,[50-60),Age,Age
+P028,Female,Gender,Gender
+P028,Caucasian,Demographic,Race
+P028,996,Disease,Diagnosis
+P028,2 days,Hospitalization,Time in Hospital
+P028,3,Clinical Information,Number of Diagnoses
+P028,insulin: Steady,Medication,Medications
+P028,Yes,Medication Status,Diabetes Medication
+P028,>30,Outcome,Readmission
+P029,P029,Patient,Patient ID
+P029,[20-30),Age,Age
+P029,Male,Gender,Gender
+P029,Caucasian,Demographic,Race
+P029,277,Disease,Diagnosis
+P029,10 days,Hospitalization,Time in Hospital
+P029,6,Clinical Information,Number of Diagnoses
+P029,insulin: Down,Medication,Medications
+P029,Yes,Medication Status,Diabetes Medication
+P029,>30,Outcome,Readmission
+P030,P030,Patient,Patient ID
+P030,[80-90),Age,Age
+P030,Female,Gender,Gender
+P030,Caucasian,Demographic,Race
+P030,428,Disease,Diagnosis
+P030,5 days,Hospitalization,Time in Hospital
+P030,8,Clinical Information,Number of Diagnoses
+P030,"metformin: Steady, glyburide: Steady",Medication,Medications
+P030,Yes,Medication Status,Diabetes Medication
+P030,>30,Outcome,Readmission
+P031,P031,Patient,Patient ID
+P031,[60-70),Age,Age
+P031,Female,Gender,Gender
+P031,AfricanAmerican,Demographic,Race
+P031,584,Disease,Diagnosis
+P031,6 days,Hospitalization,Time in Hospital
+P031,9,Clinical Information,Number of Diagnoses
+P031,"glyburide: Up, acarbose: Steady, insulin: Steady",Medication,Medications
+P031,Yes,Medication Status,Diabetes Medication
+P031,NO,Outcome,Readmission
+P032,P032,Patient,Patient ID
+P032,[70-80),Age,Age
+P032,Male,Gender,Gender
+P032,AfricanAmerican,Demographic,Race
+P032,462,Disease,Diagnosis
+P032,1 days,Hospitalization,Time in Hospital
+P032,8,Clinical Information,Number of Diagnoses
+P032,insulin: Down,Medication,Medications
+P032,Yes,Medication Status,Diabetes Medication
+P032,>30,Outcome,Readmission
+P033,P033,Patient,Patient ID
+P033,[70-80),Age,Age
+P033,Female,Gender,Gender
+P033,Caucasian,Demographic,Race
+P033,996,Disease,Diagnosis
+P033,6 days,Hospitalization,Time in Hospital
+P033,8,Clinical Information,Number of Diagnoses
+P033,insulin: Steady,Medication,Medications
+P033,Yes,Medication Status,Diabetes Medication
+P033,>30,Outcome,Readmission
+P034,P034,Patient,Patient ID
+P034,[60-70),Age,Age
+P034,Male,Gender,Gender
+P034,Caucasian,Demographic,Race
+P034,473,Disease,Diagnosis
+P034,5 days,Hospitalization,Time in Hospital
+P034,8,Clinical Information,Number of Diagnoses
+P034,insulin: Steady,Medication,Medications
+P034,Yes,Medication Status,Diabetes Medication
+P034,>30,Outcome,Readmission
+P035,P035,Patient,Patient ID
+P035,[70-80),Age,Age
+P035,Female,Gender,Gender
+P035,Caucasian,Demographic,Race
+P035,428,Disease,Diagnosis
+P035,5 days,Hospitalization,Time in Hospital
+P035,9,Clinical Information,Number of Diagnoses
+P035,insulin: Down,Medication,Medications
+P035,Yes,Medication Status,Diabetes Medication
+P035,NO,Outcome,Readmission
+P036,P036,Patient,Patient ID
+P036,[60-70),Age,Age
+P036,Female,Gender,Gender
+P036,Caucasian,Demographic,Race
+P036,411,Disease,Diagnosis
+P036,2 days,Hospitalization,Time in Hospital
+P036,6,Clinical Information,Number of Diagnoses
+P036,"rosiglitazone: Steady, insulin: Down",Medication,Medications
+P036,Yes,Medication Status,Diabetes Medication
+P036,>30,Outcome,Readmission
+P037,P037,Patient,Patient ID
+P037,[70-80),Age,Age
+P037,Female,Gender,Gender
+P037,Caucasian,Demographic,Race
+P037,174,Disease,Diagnosis
+P037,3 days,Hospitalization,Time in Hospital
+P037,5,Clinical Information,Number of Diagnoses
+P037,insulin: Steady,Medication,Medications
+P037,Yes,Medication Status,Diabetes Medication
+P037,NO,Outcome,Readmission
+P038,P038,Patient,Patient ID
+P038,[60-70),Age,Age
+P038,Female,Gender,Gender
+P038,Caucasian,Demographic,Race
+P038,486,Disease,Diagnosis
+P038,4 days,Hospitalization,Time in Hospital
+P038,3,Clinical Information,Number of Diagnoses
+P038,"metformin: Steady, glipizide: Steady, insulin: Steady",Medication,Medications
+P038,Yes,Medication Status,Diabetes Medication
+P038,>30,Outcome,Readmission
+P039,P039,Patient,Patient ID
+P039,[70-80),Age,Age
+P039,Male,Gender,Gender
+P039,Caucasian,Demographic,Race
+P039,998,Disease,Diagnosis
+P039,7 days,Hospitalization,Time in Hospital
+P039,8,Clinical Information,Number of Diagnoses
+P039,"glipizide: Steady, insulin: Steady",Medication,Medications
+P039,Yes,Medication Status,Diabetes Medication
+P039,NO,Outcome,Readmission
+P040,P040,Patient,Patient ID
+P040,[50-60),Age,Age
+P040,Male,Gender,Gender
+P040,Caucasian,Demographic,Race
+P040,996,Disease,Diagnosis
+P040,1 days,Hospitalization,Time in Hospital
+P040,9,Clinical Information,Number of Diagnoses
+P040,insulin: Steady,Medication,Medications
+P040,Yes,Medication Status,Diabetes Medication
+P040,>30,Outcome,Readmission
+P041,P041,Patient,Patient ID
+P041,[70-80),Age,Age
+P041,Female,Gender,Gender
+P041,Caucasian,Demographic,Race
+P041,414,Disease,Diagnosis
+P041,1 days,Hospitalization,Time in Hospital
+P041,4,Clinical Information,Number of Diagnoses
+P041,"metformin: Steady, insulin: Down",Medication,Medications
+P041,Yes,Medication Status,Diabetes Medication
+P041,>30,Outcome,Readmission
+P042,P042,Patient,Patient ID
+P042,[40-50),Age,Age
+P042,Male,Gender,Gender
+P042,Caucasian,Demographic,Race
+P042,511,Disease,Diagnosis
+P042,7 days,Hospitalization,Time in Hospital
+P042,5,Clinical Information,Number of Diagnoses
+P042,insulin: Steady,Medication,Medications
+P042,Yes,Medication Status,Diabetes Medication
+P042,>30,Outcome,Readmission
+P043,P043,Patient,Patient ID
+P043,[70-80),Age,Age
+P043,Female,Gender,Gender
+P043,Caucasian,Demographic,Race
+P043,V57,Disease,Diagnosis
+P043,13 days,Hospitalization,Time in Hospital
+P043,8,Clinical Information,Number of Diagnoses
+P043,"metformin: Steady, glyburide: Steady, insulin: Steady",Medication,Medications
+P043,Yes,Medication Status,Diabetes Medication
+P043,>30,Outcome,Readmission
+P044,P044,Patient,Patient ID
+P044,[50-60),Age,Age
+P044,Male,Gender,Gender
+P044,Caucasian,Demographic,Race
+P044,428,Disease,Diagnosis
+P044,3 days,Hospitalization,Time in Hospital
+P044,6,Clinical Information,Number of Diagnoses
+P044,"metformin: Steady, glipizide: Steady, insulin: Steady",Medication,Medications
+P044,Yes,Medication Status,Diabetes Medication
+P044,>30,Outcome,Readmission
+P045,P045,Patient,Patient ID
+P045,[80-90),Age,Age
+P045,Female,Gender,Gender
+P045,Caucasian,Demographic,Race
+P045,432,Disease,Diagnosis
+P045,7 days,Hospitalization,Time in Hospital
+P045,9,Clinical Information,Number of Diagnoses
+P045,insulin: Steady,Medication,Medications
+P045,Yes,Medication Status,Diabetes Medication
+P045,NO,Outcome,Readmission
+P046,P046,Patient,Patient ID
+P046,[40-50),Age,Age
+P046,Female,Gender,Gender
+P046,Caucasian,Demographic,Race
+P046,626,Disease,Diagnosis
+P046,2 days,Hospitalization,Time in Hospital
+P046,5,Clinical Information,Number of Diagnoses
+P046,insulin: Steady,Medication,Medications
+P046,Yes,Medication Status,Diabetes Medication
+P046,NO,Outcome,Readmission
+P047,P047,Patient,Patient ID
+P047,[70-80),Age,Age
+P047,Female,Gender,Gender
+P047,Caucasian,Demographic,Race
+P047,428,Disease,Diagnosis
+P047,9 days,Hospitalization,Time in Hospital
+P047,7,Clinical Information,Number of Diagnoses
+P047,"glyburide: Steady, insulin: Down",Medication,Medications
+P047,Yes,Medication Status,Diabetes Medication
+P047,<30,Outcome,Readmission
+P048,P048,Patient,Patient ID
+P048,[70-80),Age,Age
+P048,Male,Gender,Gender
+P048,Caucasian,Demographic,Race
+P048,295,Disease,Diagnosis
+P048,9 days,Hospitalization,Time in Hospital
+P048,3,Clinical Information,Number of Diagnoses
+P048,"metformin: Up, insulin: Steady",Medication,Medications
+P048,Yes,Medication Status,Diabetes Medication
+P048,NO,Outcome,Readmission
+P049,P049,Patient,Patient ID
+P049,[50-60),Age,Age
+P049,Male,Gender,Gender
+P049,Caucasian,Demographic,Race
+P049,414,Disease,Diagnosis
+P049,6 days,Hospitalization,Time in Hospital
+P049,9,Clinical Information,Number of Diagnoses
+P049,insulin: Up,Medication,Medications
+P049,Yes,Medication Status,Diabetes Medication
+P049,NO,Outcome,Readmission
+P050,P050,Patient,Patient ID
+P050,[60-70),Age,Age
+P050,Male,Gender,Gender
+P050,Caucasian,Demographic,Race
+P050,428,Disease,Diagnosis
+P050,11 days,Hospitalization,Time in Hospital
+P050,9,Clinical Information,Number of Diagnoses
+P050,"glipizide: Steady, insulin: Steady",Medication,Medications
+P050,Yes,Medication Status,Diabetes Medication
+P050,NO,Outcome,Readmission
+P051,P051,Patient,Patient ID
+P051,[50-60),Age,Age
+P051,Male,Gender,Gender
+P051,AfricanAmerican,Demographic,Race
+P051,196,Disease,Diagnosis
+P051,4 days,Hospitalization,Time in Hospital
+P051,9,Clinical Information,Number of Diagnoses
+P051,No medication information,Medication,Medications
+P051,No,Medication Status,Diabetes Medication
+P051,<30,Outcome,Readmission
+P052,P052,Patient,Patient ID
+P052,[70-80),Age,Age
+P052,Male,Gender,Gender
+P052,Caucasian,Demographic,Race
+P052,998,Disease,Diagnosis
+P052,5 days,Hospitalization,Time in Hospital
+P052,9,Clinical Information,Number of Diagnoses
+P052,insulin: Steady,Medication,Medications
+P052,Yes,Medication Status,Diabetes Medication
+P052,>30,Outcome,Readmission
+P053,P053,Patient,Patient ID
+P053,[40-50),Age,Age
+P053,Female,Gender,Gender
+P053,AfricanAmerican,Demographic,Race
+P053,250.6,Disease,Diagnosis
+P053,8 days,Hospitalization,Time in Hospital
+P053,9,Clinical Information,Number of Diagnoses
+P053,insulin: Steady,Medication,Medications
+P053,Yes,Medication Status,Diabetes Medication
+P053,>30,Outcome,Readmission
+P054,P054,Patient,Patient ID
+P054,[50-60),Age,Age
+P054,Female,Gender,Gender
+P054,AfricanAmerican,Demographic,Race
+P054,786,Disease,Diagnosis
+P054,1 days,Hospitalization,Time in Hospital
+P054,9,Clinical Information,Number of Diagnoses
+P054,insulin: Down,Medication,Medications
+P054,Yes,Medication Status,Diabetes Medication
+P054,>30,Outcome,Readmission
+P055,P055,Patient,Patient ID
+P055,[60-70),Age,Age
+P055,Female,Gender,Gender
+P055,?,Demographic,Race
+P055,618,Disease,Diagnosis
+P055,4 days,Hospitalization,Time in Hospital
+P055,9,Clinical Information,Number of Diagnoses
+P055,insulin: Down,Medication,Medications
+P055,Yes,Medication Status,Diabetes Medication
+P055,NO,Outcome,Readmission
+P056,P056,Patient,Patient ID
+P056,[60-70),Age,Age
+P056,Female,Gender,Gender
+P056,Caucasian,Demographic,Race
+P056,182,Disease,Diagnosis
+P056,6 days,Hospitalization,Time in Hospital
+P056,9,Clinical Information,Number of Diagnoses
+P056,insulin: Down,Medication,Medications
+P056,Yes,Medication Status,Diabetes Medication
+P056,NO,Outcome,Readmission
+P057,P057,Patient,Patient ID
+P057,[50-60),Age,Age
+P057,Female,Gender,Gender
+P057,AfricanAmerican,Demographic,Race
+P057,250.7,Disease,Diagnosis
+P057,9 days,Hospitalization,Time in Hospital
+P057,4,Clinical Information,Number of Diagnoses
+P057,insulin: Steady,Medication,Medications
+P057,Yes,Medication Status,Diabetes Medication
+P057,>30,Outcome,Readmission
+P058,P058,Patient,Patient ID
+P058,[40-50),Age,Age
+P058,Male,Gender,Gender
+P058,Caucasian,Demographic,Race
+P058,845,Disease,Diagnosis
+P058,1 days,Hospitalization,Time in Hospital
+P058,6,Clinical Information,Number of Diagnoses
+P058,insulin: Down,Medication,Medications
+P058,Yes,Medication Status,Diabetes Medication
+P058,NO,Outcome,Readmission
+P059,P059,Patient,Patient ID
+P059,[80-90),Age,Age
+P059,Female,Gender,Gender
+P059,AfricanAmerican,Demographic,Race
+P059,423,Disease,Diagnosis
+P059,7 days,Hospitalization,Time in Hospital
+P059,9,Clinical Information,Number of Diagnoses
+P059,insulin: Down,Medication,Medications
+P059,Yes,Medication Status,Diabetes Medication
+P059,NO,Outcome,Readmission
+P060,P060,Patient,Patient ID
+P060,[70-80),Age,Age
+P060,Male,Gender,Gender
+P060,Caucasian,Demographic,Race
+P060,808,Disease,Diagnosis
+P060,7 days,Hospitalization,Time in Hospital
+P060,5,Clinical Information,Number of Diagnoses
+P060,insulin: Down,Medication,Medications
+P060,Yes,Medication Status,Diabetes Medication
+P060,>30,Outcome,Readmission
+P061,P061,Patient,Patient ID
+P061,[70-80),Age,Age
+P061,Female,Gender,Gender
+P061,AfricanAmerican,Demographic,Race
+P061,250.4,Disease,Diagnosis
+P061,4 days,Hospitalization,Time in Hospital
+P061,9,Clinical Information,Number of Diagnoses
+P061,insulin: Steady,Medication,Medications
+P061,Yes,Medication Status,Diabetes Medication
+P061,>30,Outcome,Readmission
+P062,P062,Patient,Patient ID
+P062,[50-60),Age,Age
+P062,Male,Gender,Gender
+P062,Caucasian,Demographic,Race
+P062,414,Disease,Diagnosis
+P062,4 days,Hospitalization,Time in Hospital
+P062,8,Clinical Information,Number of Diagnoses
+P062,insulin: Down,Medication,Medications
+P062,Yes,Medication Status,Diabetes Medication
+P062,>30,Outcome,Readmission
+P063,P063,Patient,Patient ID
+P063,[40-50),Age,Age
+P063,Female,Gender,Gender
+P063,AfricanAmerican,Demographic,Race
+P063,428,Disease,Diagnosis
+P063,3 days,Hospitalization,Time in Hospital
+P063,9,Clinical Information,Number of Diagnoses
+P063,insulin: Up,Medication,Medications
+P063,Yes,Medication Status,Diabetes Medication
+P063,>30,Outcome,Readmission
+P064,P064,Patient,Patient ID
+P064,[80-90),Age,Age
+P064,Male,Gender,Gender
+P064,Caucasian,Demographic,Race
+P064,722,Disease,Diagnosis
+P064,4 days,Hospitalization,Time in Hospital
+P064,9,Clinical Information,Number of Diagnoses
+P064,"glimepiride: Steady, insulin: Steady",Medication,Medications
+P064,Yes,Medication Status,Diabetes Medication
+P064,NO,Outcome,Readmission
+P065,P065,Patient,Patient ID
+P065,[50-60),Age,Age
+P065,Female,Gender,Gender
+P065,AfricanAmerican,Demographic,Race
+P065,403,Disease,Diagnosis
+P065,4 days,Hospitalization,Time in Hospital
+P065,9,Clinical Information,Number of Diagnoses
+P065,insulin: Down,Medication,Medications
+P065,Yes,Medication Status,Diabetes Medication
+P065,NO,Outcome,Readmission
+P066,P066,Patient,Patient ID
+P066,[90-100),Age,Age
+P066,Female,Gender,Gender
+P066,?,Demographic,Race
+P066,250.7,Disease,Diagnosis
+P066,8 days,Hospitalization,Time in Hospital
+P066,9,Clinical Information,Number of Diagnoses
+P066,insulin: Steady,Medication,Medications
+P066,Yes,Medication Status,Diabetes Medication
+P066,>30,Outcome,Readmission
+P067,P067,Patient,Patient ID
+P067,[10-20),Age,Age
+P067,Male,Gender,Gender
+P067,Caucasian,Demographic,Race
+P067,250.11,Disease,Diagnosis
+P067,1 days,Hospitalization,Time in Hospital
+P067,1,Clinical Information,Number of Diagnoses
+P067,insulin: Up,Medication,Medications
+P067,Yes,Medication Status,Diabetes Medication
+P067,NO,Outcome,Readmission
+P068,P068,Patient,Patient ID
+P068,[80-90),Age,Age
+P068,Female,Gender,Gender
+P068,Caucasian,Demographic,Race
+P068,410,Disease,Diagnosis
+P068,2 days,Hospitalization,Time in Hospital
+P068,7,Clinical Information,Number of Diagnoses
+P068,insulin: Steady,Medication,Medications
+P068,Yes,Medication Status,Diabetes Medication
+P068,NO,Outcome,Readmission
+P069,P069,Patient,Patient ID
+P069,[50-60),Age,Age
+P069,Female,Gender,Gender
+P069,Caucasian,Demographic,Race
+P069,414,Disease,Diagnosis
+P069,2 days,Hospitalization,Time in Hospital
+P069,9,Clinical Information,Number of Diagnoses
+P069,insulin: Steady,Medication,Medications
+P069,Yes,Medication Status,Diabetes Medication
+P069,<30,Outcome,Readmission
+P070,P070,Patient,Patient ID
+P070,[50-60),Age,Age
+P070,Female,Gender,Gender
+P070,Caucasian,Demographic,Race
+P070,784,Disease,Diagnosis
+P070,6 days,Hospitalization,Time in Hospital
+P070,8,Clinical Information,Number of Diagnoses
+P070,insulin: Steady,Medication,Medications
+P070,Yes,Medication Status,Diabetes Medication
+P070,>30,Outcome,Readmission
+P071,P071,Patient,Patient ID
+P071,[70-80),Age,Age
+P071,Female,Gender,Gender
+P071,Caucasian,Demographic,Race
+P071,707,Disease,Diagnosis
+P071,7 days,Hospitalization,Time in Hospital
+P071,7,Clinical Information,Number of Diagnoses
+P071,No medication information,Medication,Medications
+P071,No,Medication Status,Diabetes Medication
+P071,<30,Outcome,Readmission
+P072,P072,Patient,Patient ID
+P072,[50-60),Age,Age
+P072,Male,Gender,Gender
+P072,Caucasian,Demographic,Race
+P072,189,Disease,Diagnosis
+P072,12 days,Hospitalization,Time in Hospital
+P072,9,Clinical Information,Number of Diagnoses
+P072,insulin: Up,Medication,Medications
+P072,Yes,Medication Status,Diabetes Medication
+P072,>30,Outcome,Readmission
+P073,P073,Patient,Patient ID
+P073,[60-70),Age,Age
+P073,Male,Gender,Gender
+P073,Caucasian,Demographic,Race
+P073,440,Disease,Diagnosis
+P073,4 days,Hospitalization,Time in Hospital
+P073,7,Clinical Information,Number of Diagnoses
+P073,insulin: Steady,Medication,Medications
+P073,Yes,Medication Status,Diabetes Medication
+P073,>30,Outcome,Readmission
+P074,P074,Patient,Patient ID
+P074,[70-80),Age,Age
+P074,Female,Gender,Gender
+P074,Caucasian,Demographic,Race
+P074,151,Disease,Diagnosis
+P074,14 days,Hospitalization,Time in Hospital
+P074,8,Clinical Information,Number of Diagnoses
+P074,"metformin: Steady, glipizide: Steady, insulin: Down",Medication,Medications
+P074,Yes,Medication Status,Diabetes Medication
+P074,NO,Outcome,Readmission
+P075,P075,Patient,Patient ID
+P075,[70-80),Age,Age
+P075,Female,Gender,Gender
+P075,Caucasian,Demographic,Race
+P075,414,Disease,Diagnosis
+P075,5 days,Hospitalization,Time in Hospital
+P075,7,Clinical Information,Number of Diagnoses
+P075,insulin: Up,Medication,Medications
+P075,Yes,Medication Status,Diabetes Medication
+P075,>30,Outcome,Readmission
+P076,P076,Patient,Patient ID
+P076,[70-80),Age,Age
+P076,Female,Gender,Gender
+P076,Caucasian,Demographic,Race
+P076,414,Disease,Diagnosis
+P076,4 days,Hospitalization,Time in Hospital
+P076,4,Clinical Information,Number of Diagnoses
+P076,glimepiride: Steady,Medication,Medications
+P076,Yes,Medication Status,Diabetes Medication
+P076,>30,Outcome,Readmission
+P077,P077,Patient,Patient ID
+P077,[60-70),Age,Age
+P077,Male,Gender,Gender
+P077,AfricanAmerican,Demographic,Race
+P077,786,Disease,Diagnosis
+P077,1 days,Hospitalization,Time in Hospital
+P077,6,Clinical Information,Number of Diagnoses
+P077,glyburide: Steady,Medication,Medications
+P077,Yes,Medication Status,Diabetes Medication
+P077,>30,Outcome,Readmission
+P078,P078,Patient,Patient ID
+P078,[60-70),Age,Age
+P078,Female,Gender,Gender
+P078,Caucasian,Demographic,Race
+P078,715,Disease,Diagnosis
+P078,3 days,Hospitalization,Time in Hospital
+P078,6,Clinical Information,Number of Diagnoses
+P078,insulin: Up,Medication,Medications
+P078,Yes,Medication Status,Diabetes Medication
+P078,<30,Outcome,Readmission
+P079,P079,Patient,Patient ID
+P079,[50-60),Age,Age
+P079,Female,Gender,Gender
+P079,Caucasian,Demographic,Race
+P079,997,Disease,Diagnosis
+P079,2 days,Hospitalization,Time in Hospital
+P079,8,Clinical Information,Number of Diagnoses
+P079,insulin: Up,Medication,Medications
+P079,Yes,Medication Status,Diabetes Medication
+P079,NO,Outcome,Readmission
+P080,P080,Patient,Patient ID
+P080,[50-60),Age,Age
+P080,Female,Gender,Gender
+P080,Caucasian,Demographic,Race
+P080,414,Disease,Diagnosis
+P080,3 days,Hospitalization,Time in Hospital
+P080,7,Clinical Information,Number of Diagnoses
+P080,insulin: Steady,Medication,Medications
+P080,Yes,Medication Status,Diabetes Medication
+P080,>30,Outcome,Readmission
+P081,P081,Patient,Patient ID
+P081,[70-80),Age,Age
+P081,Male,Gender,Gender
+P081,Caucasian,Demographic,Race
+P081,427,Disease,Diagnosis
+P081,3 days,Hospitalization,Time in Hospital
+P081,9,Clinical Information,Number of Diagnoses
+P081,"metformin: Steady, insulin: Steady",Medication,Medications
+P081,Yes,Medication Status,Diabetes Medication
+P081,NO,Outcome,Readmission
+P082,P082,Patient,Patient ID
+P082,[50-60),Age,Age
+P082,Male,Gender,Gender
+P082,AfricanAmerican,Demographic,Race
+P082,198,Disease,Diagnosis
+P082,3 days,Hospitalization,Time in Hospital
+P082,9,Clinical Information,Number of Diagnoses
+P082,No medication information,Medication,Medications
+P082,No,Medication Status,Diabetes Medication
+P082,NO,Outcome,Readmission
+P083,P083,Patient,Patient ID
+P083,[50-60),Age,Age
+P083,Female,Gender,Gender
+P083,Caucasian,Demographic,Race
+P083,998,Disease,Diagnosis
+P083,5 days,Hospitalization,Time in Hospital
+P083,7,Clinical Information,Number of Diagnoses
+P083,insulin: Up,Medication,Medications
+P083,Yes,Medication Status,Diabetes Medication
+P083,>30,Outcome,Readmission
+P084,P084,Patient,Patient ID
+P084,[60-70),Age,Age
+P084,Male,Gender,Gender
+P084,Caucasian,Demographic,Race
+P084,564,Disease,Diagnosis
+P084,1 days,Hospitalization,Time in Hospital
+P084,7,Clinical Information,Number of Diagnoses
+P084,"glipizide: Steady, insulin: Down",Medication,Medications
+P084,Yes,Medication Status,Diabetes Medication
+P084,NO,Outcome,Readmission
+P085,P085,Patient,Patient ID
+P085,[60-70),Age,Age
+P085,Male,Gender,Gender
+P085,Other,Demographic,Race
+P085,414,Disease,Diagnosis
+P085,5 days,Hospitalization,Time in Hospital
+P085,9,Clinical Information,Number of Diagnoses
+P085,"glipizide: Steady, insulin: Down",Medication,Medications
+P085,Yes,Medication Status,Diabetes Medication
+P085,>30,Outcome,Readmission
+P086,P086,Patient,Patient ID
+P086,[40-50),Age,Age
+P086,Male,Gender,Gender
+P086,Caucasian,Demographic,Race
+P086,414,Disease,Diagnosis
+P086,3 days,Hospitalization,Time in Hospital
+P086,7,Clinical Information,Number of Diagnoses
+P086,metformin: Steady,Medication,Medications
+P086,Yes,Medication Status,Diabetes Medication
+P086,>30,Outcome,Readmission
+P087,P087,Patient,Patient ID
+P087,[40-50),Age,Age
+P087,Female,Gender,Gender
+P087,Caucasian,Demographic,Race
+P087,414,Disease,Diagnosis
+P087,4 days,Hospitalization,Time in Hospital
+P087,6,Clinical Information,Number of Diagnoses
+P087,insulin: Down,Medication,Medications
+P087,Yes,Medication Status,Diabetes Medication
+P087,>30,Outcome,Readmission
+P088,P088,Patient,Patient ID
+P088,[60-70),Age,Age
+P088,Male,Gender,Gender
+P088,?,Demographic,Race
+P088,812,Disease,Diagnosis
+P088,3 days,Hospitalization,Time in Hospital
+P088,7,Clinical Information,Number of Diagnoses
+P088,metformin: Steady,Medication,Medications
+P088,Yes,Medication Status,Diabetes Medication
+P088,NO,Outcome,Readmission
+P089,P089,Patient,Patient ID
+P089,[60-70),Age,Age
+P089,Male,Gender,Gender
+P089,AfricanAmerican,Demographic,Race
+P089,428,Disease,Diagnosis
+P089,7 days,Hospitalization,Time in Hospital
+P089,8,Clinical Information,Number of Diagnoses
+P089,insulin: Down,Medication,Medications
+P089,Yes,Medication Status,Diabetes Medication
+P089,>30,Outcome,Readmission
+P090,P090,Patient,Patient ID
+P090,[40-50),Age,Age
+P090,Male,Gender,Gender
+P090,Caucasian,Demographic,Race
+P090,250.7,Disease,Diagnosis
+P090,4 days,Hospitalization,Time in Hospital
+P090,9,Clinical Information,Number of Diagnoses
+P090,No medication information,Medication,Medications
+P090,No,Medication Status,Diabetes Medication
+P090,>30,Outcome,Readmission
+P091,P091,Patient,Patient ID
+P091,[70-80),Age,Age
+P091,Female,Gender,Gender
+P091,Caucasian,Demographic,Race
+P091,410,Disease,Diagnosis
+P091,5 days,Hospitalization,Time in Hospital
+P091,5,Clinical Information,Number of Diagnoses
+P091,"glipizide: Steady, insulin: Steady",Medication,Medications
+P091,Yes,Medication Status,Diabetes Medication
+P091,>30,Outcome,Readmission
+P092,P092,Patient,Patient ID
+P092,[70-80),Age,Age
+P092,Male,Gender,Gender
+P092,Caucasian,Demographic,Race
+P092,398,Disease,Diagnosis
+P092,8 days,Hospitalization,Time in Hospital
+P092,9,Clinical Information,Number of Diagnoses
+P092,"metformin: Steady, insulin: Steady",Medication,Medications
+P092,Yes,Medication Status,Diabetes Medication
+P092,>30,Outcome,Readmission
+P093,P093,Patient,Patient ID
+P093,[40-50),Age,Age
+P093,Male,Gender,Gender
+P093,AfricanAmerican,Demographic,Race
+P093,996,Disease,Diagnosis
+P093,4 days,Hospitalization,Time in Hospital
+P093,5,Clinical Information,Number of Diagnoses
+P093,insulin: Steady,Medication,Medications
+P093,Yes,Medication Status,Diabetes Medication
+P093,>30,Outcome,Readmission
+P094,P094,Patient,Patient ID
+P094,[50-60),Age,Age
+P094,Female,Gender,Gender
+P094,AfricanAmerican,Demographic,Race
+P094,997,Disease,Diagnosis
+P094,1 days,Hospitalization,Time in Hospital
+P094,4,Clinical Information,Number of Diagnoses
+P094,insulin: Steady,Medication,Medications
+P094,Yes,Medication Status,Diabetes Medication
+P094,>30,Outcome,Readmission
+P095,P095,Patient,Patient ID
+P095,[60-70),Age,Age
+P095,Female,Gender,Gender
+P095,AfricanAmerican,Demographic,Race
+P095,403,Disease,Diagnosis
+P095,6 days,Hospitalization,Time in Hospital
+P095,9,Clinical Information,Number of Diagnoses
+P095,insulin: Steady,Medication,Medications
+P095,Yes,Medication Status,Diabetes Medication
+P095,>30,Outcome,Readmission
+P096,P096,Patient,Patient ID
+P096,[70-80),Age,Age
+P096,Male,Gender,Gender
+P096,Caucasian,Demographic,Race
+P096,996,Disease,Diagnosis
+P096,1 days,Hospitalization,Time in Hospital
+P096,9,Clinical Information,Number of Diagnoses
+P096,insulin: Steady,Medication,Medications
+P096,Yes,Medication Status,Diabetes Medication
+P096,>30,Outcome,Readmission
+P097,P097,Patient,Patient ID
+P097,[70-80),Age,Age
+P097,Female,Gender,Gender
+P097,Caucasian,Demographic,Race
+P097,38,Disease,Diagnosis
+P097,5 days,Hospitalization,Time in Hospital
+P097,8,Clinical Information,Number of Diagnoses
+P097,insulin: Steady,Medication,Medications
+P097,Yes,Medication Status,Diabetes Medication
+P097,>30,Outcome,Readmission
+P098,P098,Patient,Patient ID
+P098,[70-80),Age,Age
+P098,Male,Gender,Gender
+P098,Caucasian,Demographic,Race
+P098,414,Disease,Diagnosis
+P098,3 days,Hospitalization,Time in Hospital
+P098,9,Clinical Information,Number of Diagnoses
+P098,insulin: Down,Medication,Medications
+P098,Yes,Medication Status,Diabetes Medication
+P098,NO,Outcome,Readmission
+P099,P099,Patient,Patient ID
+P099,[50-60),Age,Age
+P099,Female,Gender,Gender
+P099,Other,Demographic,Race
+P099,590,Disease,Diagnosis
+P099,2 days,Hospitalization,Time in Hospital
+P099,3,Clinical Information,Number of Diagnoses
+P099,insulin: Up,Medication,Medications
+P099,Yes,Medication Status,Diabetes Medication
+P099,NO,Outcome,Readmission
+P100,P100,Patient,Patient ID
+P100,[30-40),Age,Age
+P100,Male,Gender,Gender
+P100,?,Demographic,Race
+P100,556,Disease,Diagnosis
+P100,6 days,Hospitalization,Time in Hospital
+P100,5,Clinical Information,Number of Diagnoses
+P100,insulin: Steady,Medication,Medications
+P100,Yes,Medication Status,Diabetes Medication
+P100,>30,Outcome,Readmission
