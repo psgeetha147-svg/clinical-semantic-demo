@@ -146,12 +146,23 @@ st.markdown(
 # PROJECT PATHS
 # ============================================================
 
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).resolve().parent
 
+# Your files are currently in the GitHub repository root
 CSV_FILE = BASE_DIR / "100_patients.csv"
 ENTITY_FILE = BASE_DIR / "entity_extraction_results.csv"
 RDF_FILE = BASE_DIR / "100_patients.rdf"
-PATIENT_FOLDER = BASE_DIR
+
+# Display available files for debugging
+if not CSV_FILE.exists():
+    st.error(f"Patient CSV not found: {CSV_FILE}")
+
+if not ENTITY_FILE.exists():
+    st.error(f"Entity CSV not found: {ENTITY_FILE}")
+
+if not RDF_FILE.exists():
+    st.error(f"RDF file not found: {RDF_FILE}")
+2. Make the CSV loading visible
 
 
 # ============================================================
