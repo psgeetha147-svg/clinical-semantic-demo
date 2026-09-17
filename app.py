@@ -1,9 +1,7 @@
 import streamlit as st
 import pandas as pd
-
 from pathlib import Path
 from bs4 import BeautifulSoup
-import spacy
 from rdflib import Graph, Namespace, RDF
 
 
