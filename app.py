@@ -162,7 +162,7 @@ if not ENTITY_FILE.exists():
 
 if not RDF_FILE.exists():
     st.error(f"RDF file not found: {RDF_FILE}")
-2. Make the CSV loading visible
+
 
 
 # ============================================================
